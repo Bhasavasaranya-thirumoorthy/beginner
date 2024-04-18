@@ -1,0 +1,5 @@
+The client sends request to server in the form of text messages whereas the server sends back the response for the request given by client.
+Therefore, the exchange of request and response takes place in a single connection in HTTP.
+HTTP can transfer data in various formats (plain text, hypertext, audio, video, etc.).
+HTTP is Connectionless Protocol i.e. the client begins with request, waits for the response by the server and after that disconnects.
+HTTP uses Uniform Resource Locator (URL).
